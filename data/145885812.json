@@ -5,8 +5,19 @@
     "creators": [
         "FlappyHits"
     ],
-    "verifier": "FrozMorozilka",
+    "verifier": "FlappyHits",
     "verification": "",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "FrozMorozilka",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Sreeion",
+            "link": "",
+            "percent": 100
+        }
+    ]
 }
