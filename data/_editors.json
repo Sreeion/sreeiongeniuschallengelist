@@ -1,0 +1,32 @@
+[
+    {
+        "role": "owner",
+        "name": "Sreeion",
+        "link": "https://www.youtube.com/@sreeion666"
+    },
+    {
+        "role": "admin",
+        "name": "FROZMOROZILKA",
+        "link": "https://www.youtube.com/@FROZMOROZILKA"
+    },
+    {
+        "role": "admin",
+        "name": "FlappyHits",
+        "link": "https://www.youtube.com/@flappyhits7654"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
