@@ -2,10 +2,17 @@
     "id": 149054391,
     "name": "Disha Nutella",
     "author": "FrozMorozilk",
-    "creators": ["FrozMorozilk"],
+    "creators": [
+        "FrozMorozilk"
+    ],
     "verifier": "FrozMorozilka",
     "verification": "https://www.youtube.com/watch?v=IjToM2gad54",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "FlappyHits",
+            "link": "https://youtu.be/kt4xMIhbtqQ",
+            "percent": 100
+        }
     ]
 }
