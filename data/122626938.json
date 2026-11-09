@@ -8,5 +8,11 @@
     "verifier": "Sreeion",
     "verification": "",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "FlappyHits",
+            "link": "https://youtu.be/mJopg87pt2E",
+            "percent": 100
+        }
+    ]
 }
