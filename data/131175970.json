@@ -6,7 +6,7 @@
         "FrozMorozilk"
     ],
     "verifier": "FrozMorozilka",
-    "verification": "",
+    "verification": "https://youtu.be/lzGPugc9S38",
     "percentToQualify": "100",
     "records": [
         {
@@ -17,11 +17,6 @@
         {
             "user": "Sreeion",
             "link": "",
-            "percent": 100
-        },
-        {
-            "user": "FrozMorozilka",
-            "link": "https://youtu.be/lzGPugc9S38",
             "percent": 100
         }
     ]
