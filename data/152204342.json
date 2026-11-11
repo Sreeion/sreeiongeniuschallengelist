@@ -1,0 +1,23 @@
+{
+    "id": 152204342,
+    "name": "Froz 82",
+    "author": "FrozMorozilk",
+    "creators": [
+        "FrozMorozilk"
+    ],
+    "verifier": "FrozMorozilk",
+    "verification": "https://youtu.be/kb3h1MYagOQ",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Sreeion",
+            "link": "https://youtu.be/PTuuSkd26CQ",
+            "percent": 100
+        },
+        {
+            "user": "FlappyHits",
+            "link": "https://www.youtube.com/watch?v=3AKtolvTiOs",
+            "percent": 100
+        }
+    ]
+}
